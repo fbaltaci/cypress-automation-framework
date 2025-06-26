@@ -11,9 +11,7 @@ module.exports = defineConfig({
       return config;
     },
   },
-  reporter: "@shelex/cypress-allure-plugin",
-  reporterOptions: {
-    outputDir: "allure-results",
-    clean: true,
+  env: {
+    allure: true,
   },
 });
