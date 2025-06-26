@@ -76,12 +76,12 @@ Allure is configured in cypress.config.js and initialized in cypress/support/e2e
 
 Page actions are abstracted in cypress/pages using the Page Object Model pattern
 
-## Author
+## 👨‍💻 Author
 
 Fehmi Baltaci
 📧 fehmi.baltaci@gmail.com
 🌐 https://fehmibaltaci.dev
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License.
